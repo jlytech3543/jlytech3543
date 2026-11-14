@@ -50,14 +50,14 @@
 <!--Second Column-Project Title #2 -->
   <tr>
    <!-- Project Section #2 -->
-    <td><b>🖥️ Windows Server </b></td>
+    <td><b>Deploying-Containers-Azure-App-Service </b></td>
    <!-- Description Section #2 -->
      <td>
         <p>Paragraph #2 </p>
     </td>
    <!-- Link Section 2 -->
   <td>
- <a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a>
+ <a href="https://github.com/jlytech3543/Deploying-Containers-Azure-App-Service">Deploying-Containers-Azure-App-Service </a>
       </a>
     </td>
   </tr>
