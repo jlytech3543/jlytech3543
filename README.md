@@ -38,7 +38,7 @@
 
 <!-- Description Section #1 -->
   <td>
-   <p>A client unable reach to the public network VM and it needs setup private service access with inspection the current path, creating the private endpoint, configuring private DNS, and verifying private access </p>
+   <p> Setting up private link to the BlueStone Financial Group's network. </p>
    </td>
   <td>
      <!-- Link section #1 -->
