@@ -42,7 +42,7 @@
    </td>
   <td>
      <!-- Link section #1 -->
-  <a href="https://github.com/jly0Tech/WindowsServer_2025">Establishing Private Service Access with Azure Private Link </a>
+  <a href="https://github.com/jlytech3543/Establishing-Private-Service-Access-with-Azure-Private-Link">Establishing Private Service Access with Azure Private Link </a>
     </td>
   </tr>
 
